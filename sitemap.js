@@ -171,7 +171,7 @@ function displayToc(filter) {
    var tocTable = '';
    var tocHead1 = 'BÀI VIẾT';
    var tocTool1 = 'Click to sort by title';
-   var tocHead2 = 'CẬP NHẬT MỚI NHẤT';
+   var tocHead2 = 'NGÀY';
    var tocTool2 = 'Click to sort by date';
    var tocHead3 = 'NHÃN';
    var tocTool3 = '';
